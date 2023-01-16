@@ -29,7 +29,7 @@ class MyClass {
 3.  Use the `AssemblyBuilder` to register your dependencies and configure the scope.
 
 ```
-`let assembly = AssemblyBuilder.instance
+let assembly = AssemblyBuilder.instance
     .add(factory: { MyDependency() }, bindingName: "MyDependency", scope: .singleton)
     .build()
 ```
