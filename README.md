@@ -1,6 +1,6 @@
 ![Dependency Injection](https://github.com/denismurphy/dependency-injection/blob/main/_graph.svg?raw=true&version=1)
 
-# Dependency Injection 🚀
+# 🚀 Dependency Injection
 
 ## This package provides a simple and easy-to-use Dependency Injection (DI) solution for Swift projects. It is inspired by JSR-330 and uses a property wrapper named @Inject to inject dependencies into properties of classes, structs, and protocols.
 
