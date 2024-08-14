@@ -29,14 +29,16 @@
 ```swift
 class MyClass {
     @Inject var dependency: MyDependency
-}```
+}
+```
 
 3. Utilize the `AssemblyBuilder` to register dependencies and configure their scope:
 
 ```swift
 let assembly = AssemblyBuilder.instance
     .add(factory: { MyDependency() }, bindingName: "MyDependency", scope: .singleton)
-    .build()```
+    .build()
+```
 
 4. Use the `Context` class to register the assembly and resolve dependencies (e.g., in AppDelegate):
 
