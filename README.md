@@ -54,10 +54,6 @@ This library requires Swift 5.3 or later.
 
 Install `DependencyInjection` using the Swift Package Manager by adding it as a dependency in your `Package.swift` file or directly in your Xcode project.
 
-## 🤝 Contributing
-
-We welcome contributions and suggestions to improve this library! If you encounter a bug or have an idea for a new feature, please open an issue or submit a pull request.
-
 ## 👨‍💻 Authors
 
 - **Denis Murphy**
