@@ -54,10 +54,6 @@ This library requires Swift 5.3 or later.
 
 Install `DependencyInjection` using the Swift Package Manager by adding it as a dependency in your `Package.swift` file or directly in your Xcode project.
 
-## 👨‍💻 Authors
-
-- **Denis Murphy**
-
 ## 📄 License
 
 This code is licensed under the MIT License.
